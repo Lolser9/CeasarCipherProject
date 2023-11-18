@@ -1,7 +1,7 @@
 # CeasarCipherProject
 Hello! 
 
-This is my code that passes McCreary's test. 
+This is my code that passes McCreary's test. Keep in mind I have to print the file_name and command in order for it to pass 
 
 This is a very rough draft. No functions or anything like that yet.
 
